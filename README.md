@@ -1,7 +1,7 @@
 beets-originaldateextended
 =================
 
-Plugin for beets that backup year field in flexible attribute in case original_date option is used and we need to get original release year later.
+Plugin for beets that backups year field in flexible attribute in case original_date option is used, so that we can get original release year later.
 
 Motivation
 ----------
