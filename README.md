@@ -14,7 +14,7 @@ Thanks to new flexible attribute "original_year_backup", I will be able to acces
 Installation
 ------------
 
-    $> pip install git+https://github.com/djhibee/beets-origindateextended
+    $> pip install git+https://github.com/djhibee/beets-originaldateextended/
 
 Next, add the following section to your beets config file to enable plugin:
 
